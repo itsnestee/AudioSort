@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "To sort!\n";
+    std::cout << "Git update!\n";
     return 0;
 }
